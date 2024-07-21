@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P Prashant</h1>
 <h3 align="center">Data Science Enthusiast | Aspiring Data Analyst | Passionate about AI and Machine Learning</h3>
 
-<img align="right" alt="coding" width="400"src=https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">">
+<img align="right" alt="coding" width="400"src=https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pprashant77&label=Profile%20views&color=0e75b6&style=flat" alt="pprashant77" /> </p>
 
