@@ -1,3 +1,4 @@
+![logo](https://github.com/PPrashant77/P-Prashant/blob/main/banner%20in%20github.jpg)
 <h1 align="center">Hi 👋, I'm P Prashant</h1>
 <h3 align="center">Data Science Enthusiast | Aspiring Data Analyst | Passionate about AI and Machine Learning</h3>
 
